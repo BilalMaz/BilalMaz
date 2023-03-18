@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security , Data Science , AI , Machine Learning , Cloud , Kubernetes , Blockchain , FinTech 
 - 🌱 I’m currently learning Data Science and AI / DevSecOps
 - 💞️ I’m looking to collaborate on Free and Open Source Educational Curriculums
-- 📫 reach me @ bilalmaz2010@gmail.com
+- 📫 Reach me @ bilalmaz2010@gmail.com
 
 <table style="width:100%">
   <tr>
