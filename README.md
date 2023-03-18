@@ -4,6 +4,19 @@
 - 💞️ I’m looking to collaborate on Free and Open Source Educational Curriculums
 - 📫 reach me @ bilalmaz2010@gmail.com
 
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+     <td><a href= "https://github.com/BilalMaz/Blockchain-Architect-BootCamp"><img src="4.png" alt="Logo"></a></td>
+    <td><a href= "https://github.com/BilalMaz/DevSecOps-Architect-BootCamp"><img src="devsecops.png" alt="Logo"></a></td>
+    <td><a href= "https://github.com/BilalMaz/Certified-Fintech-Security-Bootcamp"><img src="fintech.png" alt="Logo"></a></td>
+  </tr>
+
+
 <!---
 BilalMaz/BilalMaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
