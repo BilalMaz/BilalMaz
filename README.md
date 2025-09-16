@@ -16,7 +16,7 @@
     <td><a href= "https://github.com/BilalMaz/DevOps-Architect-BootCamp"><img src="Logo1.png" alt="Logo"></a></td>
   </tr>
   <tr>
-    <td><a href= "https://github.com/BilalMaz/Blockchain-Architect-BootCamp"><img src="6.png" alt="Logo"></td>
+    <td><a href= "#"><img src="6.png" alt="Logo"></td>
   </tr>
 
 
