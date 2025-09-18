@@ -16,7 +16,7 @@
     <td><a href= "https://github.com/BilalMaz/DevOps-Architect-BootCamp"><img src="Logo1.png" alt="Logo"></a></td>
   </tr>
   <tr>
-    <td><a href= "#"><img src="Logo.png" alt="Logo"></td>
+    <td><a href= "https://github.com/BilalMaz/Agentic-AI---Workflow-Automation-Bootcamp"><img src="Logo.png" alt="Logo"></td>
   </tr>
 
 
