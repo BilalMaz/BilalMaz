@@ -5,11 +5,7 @@
 - 📫 Reach me @ bilalmaz2010@gmail.com
 
 <table style="width:100%">
-  <tr>
-    <th></th>
-    <th></th>
-    <th></th>
-  </tr>
+ 
   <tr>
     <td><a href= "#"><img src="2.png" alt="Logo" width="250" height="250" style="object-fit:contain;"></a></td>
     <td><a href= "https://github.com/BilalMaz/DevSecOps-Architect-BootCamp"><img src="devsecops.png" alt="Logo" width="250" height="250" style="object-fit:contain;"></a></td>
