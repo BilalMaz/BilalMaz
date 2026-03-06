@@ -11,7 +11,7 @@
     <th></th>
   </tr>
   <tr>
-    <td><a href= "#"><img src="DA.jpg" alt="Logo"></a></td>
+    <td><a href= "#"><img src="DA.png" alt="Logo"></a></td>
     <td><a href= "https://github.com/BilalMaz/DevSecOps-Architect-BootCamp"><img src="devsecops.png" alt="Logo"></a></td>
     <td><a href= "https://github.com/BilalMaz/DevOps-Architect-BootCamp"><img src="Logo1.png" alt="Logo"></a></td>
   </tr>
