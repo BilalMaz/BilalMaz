@@ -7,7 +7,7 @@
 <table style="width:100%">
  
   <tr>
-    <td><a href= "#"><img src="2.png" alt="Logo" width="250" height="250" style="object-fit:contain;"></a></td>
+    <td><a href= "https://github.com/BilalMaz/Defensible-Security-Architecture-and-Engineering-Implementing-Zero-Trust-for-the-Hybrid-Enterprise"><img src="2.png" alt="Logo" width="250" height="250" style="object-fit:contain;"></a></td>
     <td><a href= "https://github.com/BilalMaz/DevSecOps-Architect-BootCamp"><img src="devsecops.png" alt="Logo" width="250" height="250" style="object-fit:contain;"></a></td>
     <td><a href= "https://github.com/BilalMaz/DevOps-Architect-BootCamp"><img src="Logo1.png" alt="Logo" width="250" height="250" style="object-fit:contain;"></a></td>
   </tr>
