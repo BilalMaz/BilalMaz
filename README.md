@@ -14,7 +14,9 @@
   <tr>
     <td><a href= "https://github.com/BilalMaz/Agentic-AI---Workflow-Automation-Bootcamp"><img src="Logo.png" alt="Logo" width="250" height="250" style="object-fit:contain;"></a></td>
   </tr>
-
+ <tr>
+    <td><a href= "https://github.com/BilalMaz/Agentic-AI---Workflow-Automation-Bootcamp"><img src="Logo.png" alt="Logo" width="250" height="250" style="object-fit:contain;"></a></td>
+  </tr>
 
 <!---
 BilalMaz/BilalMaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
