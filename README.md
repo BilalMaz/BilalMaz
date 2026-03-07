@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td><a href= "https://github.com/BilalMaz/Agentic-AI---Workflow-Automation-Bootcamp"><img src="Logo.png" alt="Logo" width="250" height="250" style="object-fit:contain;"></a></td>
-     <td><a href= "https://github.com/BilalMaz/Agentic-AI---Workflow-Automation-Bootcamp"><img src="Logo.png" alt="Logo" width="250" height="250" style="object-fit:contain;"></a></td>
+     <td><a href= "#"><img src="AI.png" alt="Logo" width="250" height="250" style="object-fit:contain;"></a></td>
   
   </tr>
  
